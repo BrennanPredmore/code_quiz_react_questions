@@ -10,11 +10,10 @@
     "choices": [“triangle”, “drums”, “guitar”, “halo”],
     "answer": “drums”
     },
-    
     {
     "title": “What is the name their first album”,
     "choices": [“harder not smarter”, “still dre”, “enter the 36 chambers”, “liquid swords”],
-    "answer": “harder not smarter”
+    "answer": “harder not smarter”,
     },
     
     {
@@ -24,8 +23,8 @@
     },
     
     {
-    "title": “What caused DYH’s haitus in 2020??”
+    "title": “What caused DYH’s haitus in 2020??”,
     "choices": [“creative differences”, “lack of communication”, “no one liked pizza”, “covid”],
-    "answer": “covid”
+    "answer": “covid”,
     }
     ]
